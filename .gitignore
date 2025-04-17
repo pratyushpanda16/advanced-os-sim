@@ -1,0 +1,16 @@
+# Ignore build files
+build/
+*.o
+*.out
+*.log
+logs/
+
+# Qt/IDE files
+*.pro.user
+*.user
+*.autosave
+*.qmake.stash
+
+# System
+.DS_Store
+*.swp
